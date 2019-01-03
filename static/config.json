@@ -1,4 +1,9 @@
 {
-    "javascript": [],
-    "css": []
+    "javascript": [
+        "./static/js/vendor.dll.bfad3a7cd8ed3e114726.js",
+        "./static/js/2.cd86b34e39167f1dee38.js"
+    ],
+    "css": [
+        "./static/css/docs.a9275fda9e4425df5694.css"
+    ]
 }
