@@ -1,9 +1,12 @@
 {
     "javascript": [
         "./static/js/vendor.dll.bfad3a7cd8ed3e114726.js",
-        "./static/js/2.96fbe36ccd87bb386d53.js"
+        "./static/js/manifest.ee69a528b76541dcb86b.js",
+        "./static/js/2.452ee3180df6f6fa3ded.js",
+        "./static/js/1.c5c22a72f032c3334ee7.js"
     ],
     "css": [
-        "./static/css/docs.a9275fda9e4425df5694.css"
+        "./static/css/docs.a9275fda9e4425df5694.css",
+        "./static/css/case.d65447df72a7a6654cdd.css"
     ]
 }
